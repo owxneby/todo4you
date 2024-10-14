@@ -1,0 +1,41 @@
+#Minimum viable product
+#create name and list 
+#append todo to list 
+#display list then wait for input
+#later idea plus to create - to delete
+
+#function create name and list()
+
+#function create list with listName to return List with ListName as tuple
+
+#function addtolist()
+
+
+
+def main():
+    ans = input("y/n if you want to create a todo: y for yes, n for no " )
+    if ans == "y":
+        listName = input("input list name: ")
+#function create list with listName #createList()
+
+# add to list append list function addtoList(list)
+        ans = input("y/n if you want to add a todo: y for yes, n for no " )
+            if ans == "y":
+                toDo = input("What To Do: ")
+                #list.append(toDo)
+            if ans == "n":
+            
+
+
+#display list then wait for input
+# 
+
+#create a list
+
+#add the function input to list 
+
+
+
+main()
+
+

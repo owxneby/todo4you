@@ -8,7 +8,9 @@
 
 #function create list with listName to return List with ListName as tuple
 
-#function addtolist()
+#function addTolist()
+
+#function deleteFromList
 
 
 
